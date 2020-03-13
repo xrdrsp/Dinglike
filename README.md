@@ -25,4 +25,4 @@
 
 ## 4 广告
 
-征集 Mac OS 和 Linux 下的 Dingtalk 连点器。感激不尽。
+征集 Mac OS 和 Linux 下的 Dingtalk 连点器。感激不尽。（我也要刷赞啊
