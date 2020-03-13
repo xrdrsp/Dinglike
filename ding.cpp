@@ -10,3 +10,5 @@ int main() {
     }
     return 0;
 }
+
+// Copyright By xrdrsp.
