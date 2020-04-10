@@ -13,8 +13,8 @@ int main() {
     printf("Set the number of likes (No more than 100000 recommended): ");
     cin >> num;
     system("pause");
-    SetCursorPos(x_coordinate, y_coordinate);
     Sleep(2000);
+    SetCursorPos(x_coordinate, y_coordinate);
     for (int i = 0; i < num; i++) {
         mouse_event(MOUSEEVENTF_LEFTDOWN, 0, 0, 0, 0);
         mouse_event(MOUSEEVENTF_LEFTUP, 0, 0, 0, 0);
