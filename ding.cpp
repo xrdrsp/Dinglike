@@ -21,4 +21,4 @@ int main() {
     }
     return 0;
 }
-// Copyright by xrdrsp and Dovuq (https://github.com/dovuq/).
+// Copyright by xrdrsp (https://github.com/xrdrsp/) and Dovuq (https://github.com/dovuq/).
