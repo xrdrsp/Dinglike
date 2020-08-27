@@ -1,5 +1,8 @@
-## 23 行 Dingtalk刷赞器 By xrdrsp and Dovuq
+# Project Dinglike
 
----
+Project Dinglike is a **dangerous** executable file (`*.exe`) for Windows. Please follow steps listed in [Wiki](https://github.com/xrdrsp/Dinglike/wiki) to use. (English version will soon be published.)
 
-**这是一个危险的程序！请您在仔细阅读 [Wiki](https://github.com/xrdrsp/Dingtalk/wiki) 的使用说明后再下载。**
+# Acknowledgement
+
+- Thank @xrdrsp who wrote `ding.cpp`.
+- Thank @Dovuq who helped @xrdrsp compile `ding.cpp` and improved the program.
